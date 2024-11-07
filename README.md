@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hello! 👋
 
+I love working with different technologies & platforms, and my current favorite ones are
+
+- ❤️ SQL / PostgreSQL / MySQL
+- ❤️ Python
+- ❤️ Tableau
+
+## 📫 Reach me at
+
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/dane-pearson/))
 <!--
 **danepearson/danepearson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
