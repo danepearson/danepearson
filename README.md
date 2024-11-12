@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Dane, and I am currently a student at UCSC. I love working with different technologies & platforms, and my current favorite ones are
+My name is Dane, and I am currently a student at UCSC studying Cognitive Science with minors in Computer Science and Statistics. I love working with different technologies & platforms, and my current favorite ones are
 
 - ❤️ SQL / PostgreSQL / MySQL
 - ❤️ Python
